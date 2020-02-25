@@ -11,16 +11,7 @@ Learn Git and GitHub without any code!
 Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
 
-YashasviRao
-/
-Logging
-1
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-Logging/maven1/src/main/java/maven1/CostEst.java
-@YashasviRao YashasviRao Initial commit of Logging class written using maven tool
-8cce541 16 hours ago
-51 lines (48 sloc)  1.75 KB
+
   
 package maven1;
 
@@ -29,7 +20,7 @@ import java.util.Scanner;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class CostEst {
+public class costEst {
 	private static final Logger LOGGER =LogManager.getLogger(CostEst.class);
 	float area;
 	 String standardLevel;
